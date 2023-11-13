@@ -1,0 +1,15 @@
+.idea
+**/.env
+**/__pycache__
+**/venv
+**/.venv
+**/envs
+**/virtualenv
+**/logs
+api/media/*
+api/staticfiles/*
+.vscode
+.coverage
+/secrets
+jwt_*
+.mypy_cache
